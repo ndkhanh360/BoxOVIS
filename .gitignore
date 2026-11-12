@@ -1,0 +1,12 @@
+models/Mask3D/third_party/
+data
+OpenYOLO3D/
+**__pycache__**
+data
+output 
+pretrained
+visualization_*
+*.md 
+example_meshes
+models/YOLO-World/yolo_world.egg-info/
+models/YOLO-World/yolo_world/work_dirs/
